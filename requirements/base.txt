@@ -1,0 +1,7 @@
+# Django
+# ------------------------------------------------------------------------------
+django ~= 4.1 # pyup: ~ 4.0  # https://www.djangoproject.com/
+
+
+# Django REST Framework
+djangorestframework # https://github.com/encode/django-rest-framework
